@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "933ff81a2a58fcbcc870b1d656c52500",
+    "revision": "bb71c09e602bc523dbe90befaed8a051",
     "url": "/golisa85.github.io/index.html"
   },
   {
-    "revision": "b59070a5fde456e251a6",
+    "revision": "8e48961372982d6c6cad",
     "url": "/golisa85.github.io/static/css/main.8f15540d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b59070a5fde456e251a6",
-    "url": "/golisa85.github.io/static/js/main.fce58421.chunk.js"
+    "revision": "8e48961372982d6c6cad",
+    "url": "/golisa85.github.io/static/js/main.e04cfc22.chunk.js"
   },
   {
     "revision": "bd761debc313a4bc73f3",
