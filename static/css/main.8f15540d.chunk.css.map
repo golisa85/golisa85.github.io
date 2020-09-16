@@ -1,0 +1,1 @@
+{"version":3,"sources":["cardstyle.css"],"names":[],"mappings":"AAAA,WACA,oBAAqB,CACrB,YAEA","file":"main.8f15540d.chunk.css","sourcesContent":[".cardstyle{\nalign-content: center;\ndisplay : flex;\n\n}\n\n"]}

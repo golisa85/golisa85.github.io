@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/golisa85.github.io/static/css/main.8f15540d.chunk.css",
+    "main.js": "/golisa85.github.io/static/js/main.fce58421.chunk.js",
+    "main.js.map": "/golisa85.github.io/static/js/main.fce58421.chunk.js.map",
+    "runtime-main.js": "/golisa85.github.io/static/js/runtime-main.b530edc3.js",
+    "runtime-main.js.map": "/golisa85.github.io/static/js/runtime-main.b530edc3.js.map",
+    "static/js/2.2e6bab85.chunk.js": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js",
+    "static/js/2.2e6bab85.chunk.js.map": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js.map",
+    "index.html": "/golisa85.github.io/index.html",
+    "precache-manifest.75a005a9a52653b2a39a35b251a9a4d2.js": "/golisa85.github.io/precache-manifest.75a005a9a52653b2a39a35b251a9a4d2.js",
+    "service-worker.js": "/golisa85.github.io/service-worker.js",
+    "static/css/main.8f15540d.chunk.css.map": "/golisa85.github.io/static/css/main.8f15540d.chunk.css.map",
+    "static/js/2.2e6bab85.chunk.js.LICENSE.txt": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js.LICENSE.txt",
+    "static/media/Picture 1.png": "/golisa85.github.io/static/media/Picture 1.edaf6bd3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b530edc3.js",
+    "static/js/2.2e6bab85.chunk.js",
+    "static/css/main.8f15540d.chunk.css",
+    "static/js/main.fce58421.chunk.js"
+  ]
+}
