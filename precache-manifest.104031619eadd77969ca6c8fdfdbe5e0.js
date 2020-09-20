@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "933ff81a2a58fcbcc870b1d656c52500",
+    "revision": "158d96b3f874007ef6a274cff104592e",
     "url": "/golisa85.github.io/index.html"
   },
   {
-    "revision": "b59070a5fde456e251a6",
-    "url": "/golisa85.github.io/static/css/main.8f15540d.chunk.css"
+    "revision": "5c6a87ca94840fc1e55a",
+    "url": "/golisa85.github.io/static/css/main.7779e688.chunk.css"
   },
   {
-    "revision": "b3c2bc37b7ffd0560bc1",
-    "url": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js"
+    "revision": "b605a4f157ef52a5567d",
+    "url": "/golisa85.github.io/static/js/2.beab3ab0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/golisa85.github.io/static/js/2.2e6bab85.chunk.js.LICENSE.txt"
+    "url": "/golisa85.github.io/static/js/2.beab3ab0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b59070a5fde456e251a6",
-    "url": "/golisa85.github.io/static/js/main.fce58421.chunk.js"
+    "revision": "5c6a87ca94840fc1e55a",
+    "url": "/golisa85.github.io/static/js/main.5470c399.chunk.js"
   },
   {
     "revision": "bd761debc313a4bc73f3",
