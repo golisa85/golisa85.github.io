@@ -1,1 +1,0 @@
-{"version":3,"sources":["Style.css"],"names":[],"mappings":"AAAA,YACI,wBAA8B,CAC9B,aAAyB,CACzB,eAAgB,CAChB,YAAa,CACb,mBAAoB,CACpB,YAEJ","file":"main.7779e688.chunk.css","sourcesContent":[".pageheader{\n    background-color: rgb(8, 7, 5);\n    color: rgb(248, 240, 240);\n    text-align: left;\n    padding: 60px;\n    font-family: fantasy;\n    height : 150px ;\n \n}\n"]}
